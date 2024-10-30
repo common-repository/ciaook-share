@@ -1,0 +1,93 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-18 10:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ciaook_plugin.php:61
+msgid "Ciaook Share"
+msgstr ""
+
+#: ciaook_plugin.php:68
+msgid "You do not have sufficient permissions to access this page"
+msgstr ""
+
+#: ciaook_plugin.php:69
+msgid "Ciaook Settings"
+msgstr ""
+
+#: ciaook_plugin.php:71
+msgid "Ciaook API Key edited successfully"
+msgstr ""
+
+#: ciaook_plugin.php:72
+msgid "Enter Ciaook API Key (you can find it in"
+msgstr ""
+
+#: ciaook_plugin.php:72
+msgid "your personal page once logged on ciaook.com"
+msgstr ""
+
+#: ciaook_plugin.php:72
+msgid "Save"
+msgstr ""
+
+#: ciaook_plugin.php:99 ciaook_plugin.php:108 ciaook_plugin.php:167
+#: ciaook_plugin.php:176
+msgid "from"
+msgstr ""
+
+#: ciaook_plugin.php:100 ciaook_plugin.php:168
+msgid "per hour"
+msgstr ""
+
+#: ciaook_plugin.php:102 ciaook_plugin.php:113 ciaook_plugin.php:170
+#: ciaook_plugin.php:181
+msgid "minimum"
+msgstr ""
+
+#: ciaook_plugin.php:111 ciaook_plugin.php:179
+msgid "per day"
+msgstr ""
+
+#: ciaook_plugin.php:146
+msgid "Widget for sharing Ciaook items"
+msgstr ""
+
+#: ciaook_plugin.php:226
+msgid "API Key"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ciaook Share Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin can help you to share items placed on Ciaook on your WordPress "
+"site via [ciaook_share] shortcode or widget. You can specify API Key as "
+"[ciaook_share api=xxx] or via Settings for shortcode. You can specify API "
+"Key in input field in widget administration or via Settings for widget."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://ciaook.com/wordpress_share"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ciaook Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://ciaook.com"
+msgstr ""

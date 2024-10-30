@@ -1,0 +1,13 @@
+.ciaook_items{border: 1px solid #ddd; padding: 2px;}
+.ciaook_items.ciaook_widget{border: none; padding: 0px;}
+.ciaook_item_thumb{display: table-cell;}
+.ciaook_item_name .ciaook_thumb{vertical-align: middle; box-shadow: none; display: inline-block;}
+.ciaook_item_name_head{display: table-cell; vertical-align: middle; border-left: 10px solid transparent;}
+.ciaook_item_price_digit{padding-left: 0px;}
+.ciaook_item_price_currency{padding-left: 1px;}
+.ciaook_item_price_from{padding-left: 0px;padding-right: 5px;}
+.ciaook_item_price_mesure{padding-left: 5px;}
+.ciaook_item_min{padding-left: 5px;}
+.ciaook_item_min .ciaook_item_price_digit{padding-left: 5px;}
+.ciaook_item_min .ciaook_item_price_currency{padding-left: 1px;}
+.ciaook_items hr:last-of-type {display: none;}
